@@ -26,7 +26,7 @@ B.A. Economics (with highest distinctions), University of Oklahoma, 2020
 
 #### Industry Experience
 
-1. Data Manager Intern, Samruk Energy CJSC, 2019
+1. Data Manager Intern, Samruk Energy JSC, 2019
 2. Financial Manager Intern, Vertical CJSC, 2018
 
 #### Contacts
