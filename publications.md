@@ -5,7 +5,7 @@ permalink: /publications
 
 #### Publications
 
-1. Kramar, Miroslav and Sergazinov, Renat \(2020\). [*Force Reconstruction in Photoelastic Granular Materials Using Deep Learning.*](https://arxiv.org/abs/2010.01163). arXiv [\[Code\]](https://github.com/mrsergazinov/PhotoForceReconML)
+1. Kramar, Miroslav and Sergazinov, Renat \(2020\). [*Force Reconstruction in Photoelastic Granular Materials Using Deep Learning.*](https://arxiv.org/abs/2010.01163) arXiv [\[Code\]](https://github.com/mrsergazinov/PhotoForceReconML)
 
 
 #### Talks
