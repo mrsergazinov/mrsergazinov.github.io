@@ -22,7 +22,7 @@ B.A. Economics (with highest distinctions), University of Oklahoma, 2020
 
 #### Talks
 
-1. Presentation on *Force Reconstruction in Photoelastic Granular Materials Using Deep Learning* at the Undergraduate Research Day at the University of Oklahoma. [\[OSF\]](https://osf.io/5epzm/)
+1. *Force Reconstruction in Photoelastic Granular Materials Using Deep Learning*, Undergraduate Research, University of Oklahoma. [\[OSF\]](https://osf.io/5epzm/)
 
 #### Industry Experience
 
