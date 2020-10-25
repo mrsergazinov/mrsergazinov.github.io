@@ -1,13 +1,13 @@
 ---
 layout: about
 title: Howdy! I am Renat Sergazinov.
-description: This is my personal website. You can find all relevant information about me here as well as links to my soical media.
+description: This is my personal website. You can find all relevant information about me here as well as links to my social media.
 cover: true
 permalink: /
 ---
 
 
-I am a Ph.D student at the Department of Statistics at Texas A&M University. I have exprience with Data Analytics and a demonstrated record of working in the research environment. I am also skilled in Statistical Data Analysis, Algorithms and Data Structures, C++, Python, and R.
+I am a Ph.D student at the Department of Statistics at Texas A&M University. I have experience with Data Analytics and a demonstrated record of working in the research environment. I am also skilled in Statistical Data Analysis, Algorithms and Data Structures, C++, Python, and R.
 
 #### Education
 
@@ -17,12 +17,12 @@ B.A. Economics (with highest distinctions), University of Oklahoma, 2020
 
 #### Publications
 
-1. Kramar, Miroslav and Sergazinov, Renat. *Force Reconstruction in Photoelastic Granular Materials Using Deep Learning* (in preparation).
+1. Kramar, Miroslav and Sergazinov, Renat \(2020\). [*Force Reconstruction in Photoelastic Granular Materials Using Deep Learning.*](https://arxiv.org/abs/2010.01163). arXiv [\[Code\]](https://github.com/mrsergazinov/PhotoForceReconML)
 
 
 #### Talks
 
-1. Presentation on *Force Reconstruction in Photoelastic Granular Materials Using Deep Learning* at the Undergraduate Research Day at the University of Oklahoma. [Link to Open Science Foundation.](https://osf.io/5epzm/)
+1. Presentation on *Force Reconstruction in Photoelastic Granular Materials Using Deep Learning* at the Undergraduate Research Day at the University of Oklahoma. [\[OSF\]](https://osf.io/5epzm/)
 
 #### Industry Experience
 
