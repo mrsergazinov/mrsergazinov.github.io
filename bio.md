@@ -3,12 +3,12 @@ title: ''
 permalink: /bio
 ---
 
-I am a Ph.D student at the Department of Statistics at Texas A&M University. I have experience with Data Analytics and a demonstrated record of working in the research environment. I am also skilled in Statistical Data Analysis, Algorithms and Data Structures, C++, Python, and R.
+I am a first-year Ph.D student at the [Department of Statistics at Texas A&M University](https://stat.tamu.edu/). I am broadly interested in machine learning and its theoretical underpinning.
 
 #### Education
 
-B.S. Mathematics (with highest distinictions), University of Oklahoma, 2020  
-B.A. Economics (with highest distinctions), University of Oklahoma, 2020
+B.S. Mathematics (with highest distinictions), [University of Oklahoma](https://www.ou.edu/), 2020  
+B.A. Economics (with highest distinctions), [University of Oklahoma](https://www.ou.edu/), 2020
 
 
 #### Publications
@@ -22,10 +22,10 @@ B.A. Economics (with highest distinctions), University of Oklahoma, 2020
 
 #### Industry Experience
 
-1. Data Manager Intern, Samruk Energy JSC, 2019
+1. Data Manager Intern, [Samruk Energy JSC](https://www.samruk-energy.kz/en/), 2019
 2. Financial Manager Intern, Vertical CJSC, 2018
 
 #### Contacts
 
 Email: [`mrsergazinov@tamu.edu`](mailto:mrsergazinov@tamu.edu)  
-Message: [`+1(405) 857-5617`](sms:18285282937?body=Input your message!)
+Message: [`+1(405) 857-5617`](sms:14058575617?body=Input your message!)
