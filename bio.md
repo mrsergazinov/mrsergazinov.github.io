@@ -38,4 +38,4 @@ President’s Honor Roll (2016-2020), Alexander B. Holmes Scholar, Frederick B. 
 #### Contacts
 
 Email: [`mrsergazinov@tamu.edu`](mailto:mrsergazinov@tamu.edu)  
-Message: [`+1(405) 857-5617`](sms:14058575617?body=Input your message!)
+Message: [`+1(405) 857-5617`](sms:14058575617)
