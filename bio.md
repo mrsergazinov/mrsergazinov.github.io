@@ -13,17 +13,28 @@ B.A. Economics (with highest distinctions, GPA: 4.00), [University of Oklahoma](
 
 #### Publications
 
-1. Kramar, Miroslav and Sergazinov, Renat \(2020\). [*Force Reconstruction in Photoelastic Granular Materials Using Deep Learning.*](https://arxiv.org/abs/2010.01163) arXiv [\[Code\]](https://github.com/mrsergazinov/PhotoForceReconML)
+1. Kramar, Miroslav and Sergazinov, Renat \(2020\). [*Force Reconstruction in Photoelastic Granular Materials Using Deep Learning.*](https://arxiv.org/abs/2010.01163) Preprint arXiv. [\[Code\]](https://github.com/mrsergazinov/PhotoForceReconML)
 
 #### Talks
 
 1. *Force Reconstruction in Photoelastic Granular Materials Using Deep Learning*, Undergraduate Research, University of Oklahoma. [\[OSF\]](https://osf.io/5epzm/)
 
 #### Grants
+
 1. *Force Reconstruction in Photoelastic Granular Materials Using Deep Learning*, [Undergraduate Research Program](https://www.ou.edu/honors/undergraduate-research/urop), University of Oklahoma, Fall 2019, $800.00
 
+
+#### Software
+
+1. cartcpp: fast implementation of classification and regression trees (CART) in R using R Modules, C++, and Armadillo library. Currently available from [\[Github\]](https://github.com/mrsergazinov/cartcpp). 
+
 #### Honors
-President’s Honor Roll (2016-2020), Alexander B. Holmes Scholar, Frederick B. Swan Scholar, Transfer Leadership Award, Transfer Academic Excellence Award
+
+1. President’s Honor Roll, University of Oklahoma (2016-2020)
+2. Alexander B. Holmes Economics Scholar, University of Oklahoma
+3. Frederick B. Swan Mathematics Scholar, University of Oklahoma
+4. Transfer Leadership Award, University of Oklahoma
+5. Transfer Academic Excellence Award, University of Oklahoma
 
 #### Industry Experience
 
@@ -31,6 +42,7 @@ President’s Honor Roll (2016-2020), Alexander B. Holmes Scholar, Frederick B. 
 2. Financial Manager Intern, Vertical CJSC, 2018
 
 #### Tools
+
 1. Programming languages: C++, R, Python
 2. Scripting: Bash
 3. Version control: Git (Github)
