@@ -52,6 +52,8 @@ author:
 menu:
   - title:             Bio
     url:               /bio
+  - title:             CV
+    url: https://drive.google.com/file/d/1-N6sYMpYoAFKtGYILjIJvpTSZAAfJZox/view?usp=sharing
   - title:             Publications
     url:               /publications
   - title:             Sources
