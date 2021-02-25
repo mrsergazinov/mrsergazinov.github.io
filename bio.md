@@ -8,7 +8,7 @@ permalink: /bio
 I am a first-year Ph.D student at the [Department of Statistics at Texas A&M University](https://stat.tamu.edu/). I am broadly interested in machine learning and its theoretical underpinning.
 
 #### Documents
-Please, download my complete CV [here](https://mrsergazinov.github.io/assets/CV_Renat_Sergazinov.pdf).
+Please, download my complete CV [here](https://mrsergazinov.github.io/pdf/CV_Renat_Sergazinov.pdf).
 
 #### Education
 
