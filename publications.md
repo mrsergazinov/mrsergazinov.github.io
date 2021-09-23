@@ -3,7 +3,7 @@ title: ''
 permalink: /publications
 ---
 
-For an up-to-date list, see my [\[Google Scholar\]](https://scholar.google.com/citations?user=OhV6QOkAAAAJ&hl=en).
+For an up-to-date list, see my [Google Scholar](https://scholar.google.com/citations?user=OhV6QOkAAAAJ&hl=en).
 
 #### Publications
 
