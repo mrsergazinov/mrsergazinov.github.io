@@ -12,4 +12,4 @@ For an up-to-date list, see my [Google Scholar](https://scholar.google.com/citat
 
 #### Talks
 
-1. "Machine learning approach to force reconstruction in photoelastic materials", Undergraduate Research Day, University of Oklahoma. [\[OSF\]](https://osf.io/5epzm/)
+1. "Machine learning approach to force reconstruction in photoelastic materials," Undergraduate Research Day, University of Oklahoma. [\[OSF\]](https://osf.io/5epzm/)

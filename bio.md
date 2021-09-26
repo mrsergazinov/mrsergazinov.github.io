@@ -22,7 +22,7 @@ B.A. Economics (with highest distinctions, GPA: 4.00), [University of Oklahoma](
 
 #### Talks
 
-1. "Machine Learning Approach to Force Reconstruction in Photoelastic Materials", Undergraduate Research, University of Oklahoma. [\[OSF\]](https://osf.io/5epzm/)
+1. "Machine Learning Approach to Force Reconstruction in Photoelastic Materials," Undergraduate Research, University of Oklahoma. [\[OSF\]](https://osf.io/5epzm/)
 
 #### Awards
 
@@ -30,7 +30,7 @@ B.A. Economics (with highest distinctions, GPA: 4.00), [University of Oklahoma](
 
 #### Grants
 
-1. "Machine Learning Approach to Force Reconstruction in Photoelastic Materials", [Undergraduate Research Program](https://www.ou.edu/honors/undergraduate-research/urop), University of Oklahoma, Fall 2019, $800.00
+1. "Machine Learning Approach to Force Reconstruction in Photoelastic Materials," [Undergraduate Research Program](https://www.ou.edu/honors/undergraduate-research/urop), University of Oklahoma, Fall 2019, $800.00
 
 
 #### Software
