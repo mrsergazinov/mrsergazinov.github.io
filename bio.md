@@ -12,17 +12,17 @@ Please, download my complete CV [here](https://drive.google.com/file/d/1-N6sYMpY
 
 #### Education
 
-B.S. Mathematics (with highest distinictions, GPA: 4.00), [University of Oklahoma](https://www.ou.edu/), 2020  
+B.S. Mathematics (with highest distinctions, GPA: 4.00), [University of Oklahoma](https://www.ou.edu/), 2020  
 B.A. Economics (with highest distinctions, GPA: 4.00), [University of Oklahoma](https://www.ou.edu/), 2020
 
 
 #### Publications
 
-1. Sergazinov, Renat, and Miroslav Kramár. "Machine learning approach to force reconstruction in photoelastic materials." [*arXiv*](https://arxiv.org/abs/2010.01163) *preprint arXiv:2010.01163 (2020)*. [\[Code\]](https://github.com/mrsergazinov/PhotoForceReconML)
+1. Sergazinov, Renat, and Miroslav Kramar. “Machine Learning Approach to Force Reconstruction in Photoelastic Materials.” *Machine Learning: Science and Technology*, September 24, 2021. [https://doi.org/10.1088/2632-2153/ac29d5](https://doi.org/10.1088/2632-2153/ac29d5). [\[Code\]](https://github.com/mrsergazinov/particle-force-cnn)
 
 #### Talks
 
-1. *Machine learning approach to force reconstruction in photoelastic materials.*, Undergraduate Research, University of Oklahoma. [\[OSF\]](https://osf.io/5epzm/)
+1. "Machine Learning Approach to Force Reconstruction in Photoelastic Materials", Undergraduate Research, University of Oklahoma. [\[OSF\]](https://osf.io/5epzm/)
 
 #### Awards
 
@@ -30,7 +30,7 @@ B.A. Economics (with highest distinctions, GPA: 4.00), [University of Oklahoma](
 
 #### Grants
 
-1. *Machine learning approach to force reconstruction in photoelastic materials.g*, [Undergraduate Research Program](https://www.ou.edu/honors/undergraduate-research/urop), University of Oklahoma, Fall 2019, $800.00
+1. "Machine Learning Approach to Force Reconstruction in Photoelastic Materials", [Undergraduate Research Program](https://www.ou.edu/honors/undergraduate-research/urop), University of Oklahoma, Fall 2019, $800.00
 
 
 #### Software
