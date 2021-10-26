@@ -5,7 +5,7 @@ permalink: /bio
 
 #### Personal Statement
 
-I am a second-year Ph.D student at the [Department of Statistics at Texas A&M University](https://stat.tamu.edu/). I am interested in functional data analysis, statistical learning, and big data.
+I am a second-year Ph.D student at the [Department of Statistics at Texas A&M University](https://stat.tamu.edu/). I am interested in deep learning, uncertainty quantification, functional data analysis, and big data.
 
 #### Documents
 Please, download my complete CV [here](https://drive.google.com/file/d/1-N6sYMpYoAFKtGYILjIJvpTSZAAfJZox/view?usp=sharing).
@@ -18,7 +18,12 @@ B.A. Economics (with highest distinctions, GPA: 4.00), [University of Oklahoma](
 
 #### Publications
 
-1. Sergazinov, Renat, and Miroslav Kramar. “Machine Learning Approach to Force Reconstruction in Photoelastic Materials.” *Machine Learning: Science and Technology*, September 24, 2021. [https://doi.org/10.1088/2632-2153/ac29d5](https://doi.org/10.1088/2632-2153/ac29d5). [\[Code\]](https://github.com/mrsergazinov/particle-force-cnn)
+1. Sergazinov, R., Armandpour, M., and Gaynanova, I. (2021). “Gluformer: Transformer-Based Personalized Glucose Forecasting with Uncertainty Quantification.” Submitted to **AISTATS**.
+
+2. Sergazinov, R., and Kramar, M. (2021). “Machine Learning Approach to Force Reconstruction in Photoelastic Materials.” [**IOP: MLST**](https://doi.org/10.1088/2632-2153/ac29d5). [\[Code\]](https://github.com/mrsergazinov/particle-force-cnn)
+
+#### Academic Services
+1. Reviewer for **AISTATS 2021**.
 
 #### Talks
 
@@ -54,7 +59,7 @@ B.A. Economics (with highest distinctions, GPA: 4.00), [University of Oklahoma](
 
 1. Programming languages: C++, R, Python
 2. Scripting: Bash
-3. Version control: Git (Github)
+3. Packages: PyTorch, Tensorflow
 
 #### Contacts
 
