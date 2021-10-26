@@ -12,8 +12,9 @@ Please, download my complete CV [here](https://drive.google.com/file/d/1-N6sYMpY
 
 #### Education
 
-B.S. Mathematics (with highest distinctions, GPA: 4.00), [University of Oklahoma](https://www.ou.edu/), 2020  
-B.A. Economics (with highest distinctions, GPA: 4.00), [University of Oklahoma](https://www.ou.edu/), 2020
+Ph.D. Statistic (**GPA: 4.00**), [Texas A&M University](https://stat.tamu.edu/), 2025  
+B.S. Mathematics (with highest distinctions, **GPA: 4.00**), [University of Oklahoma](https://www.ou.edu/), 2020  
+B.A. Economics (with highest distinctions, **GPA: 4.00**), [University of Oklahoma](https://www.ou.edu/), 2020
 
 
 #### Publications
@@ -31,16 +32,16 @@ B.A. Economics (with highest distinctions, GPA: 4.00), [University of Oklahoma](
 
 #### Awards
 
-1. Ruth & Howard Newton Memorial Graduate Student Teaching Award, Texas A&M University, Summer 2021, $1,000
+1. Ruth & Howard Newton Memorial Graduate Student Teaching Award, Texas A&M University, Summer 2021, $1,000.
 
 #### Grants
 
-1. "Machine Learning Approach to Force Reconstruction in Photoelastic Materials," [Undergraduate Research Program](https://www.ou.edu/honors/undergraduate-research/urop), University of Oklahoma, Fall 2019, $800.00
+1. "Machine Learning Approach to Force Reconstruction in Photoelastic Materials," [Undergraduate Research Program](https://www.ou.edu/honors/undergraduate-research/urop), University of Oklahoma, Fall 2019, $800.00.
 
 
 #### Software
 
-1. cartcpp: fast implementation of classification and regression trees (CART) in R using R Modules, C++, and Armadillo library. Currently available from [\[Github\]](https://github.com/mrsergazinov/cartcpp). 
+1. cartcpp: fast implementation of classification and regression trees (CART) in R using R Modules, C++, and Armadillo library. [\[Code\]](https://github.com/mrsergazinov/cartcpp)
 
 #### Honors
 
