@@ -12,7 +12,7 @@ Please, download my complete CV [here](https://drive.google.com/file/d/1-N6sYMpY
 
 #### Education
 
-Ph.D. Statistic (**GPA: 4.00**), [Texas A&M University](https://stat.tamu.edu/), 2025  
+Ph.D. Statistics (**GPA: 4.00**), [Texas A&M University](https://stat.tamu.edu/), 2025  
 B.S. Mathematics (with highest distinctions, **GPA: 4.00**), [University of Oklahoma](https://www.ou.edu/), 2020  
 B.A. Economics (with highest distinctions, **GPA: 4.00**), [University of Oklahoma](https://www.ou.edu/), 2020
 
