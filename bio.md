@@ -5,7 +5,7 @@ permalink: /bio
 
 #### Personal Statement
 
-I am a Ph.D student at the [Department of Statistics at Texas A&M University](https://stat.tamu.edu/). I am rather broadly interested in probabilstic deep learning and realted methods.
+I am a Ph.D student at the [Department of Statistics at Texas A&M University](https://stat.tamu.edu/). I am rather broadly interested in probabilstic deep learning and related methods.
 
 #### Documents
 
