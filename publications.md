@@ -7,7 +7,9 @@ For an up-to-date list, see my [Google Scholar](https://scholar.google.com/citat
 
 #### Publications
 
-1. Sergazinov, Renat, and Miroslav Kramar. “Machine Learning Approach to Force Reconstruction in Photoelastic Materials.” *Machine Learning: Science and Technology*, September 24, 2021. [https://doi.org/10.1088/2632-2153/ac29d5](https://doi.org/10.1088/2632-2153/ac29d5). [\[Code\]](https://github.com/mrsergazinov/particle-force-cnn)
+1. Sergazinov, R., Armandpour, M., and Gaynanova, I. (2021). “Gluformer: Transformer-Based Personalized Glucose Forecasting with Uncertainty Quantification.” Under review.
+
+2. Sergazinov, R., and Kramar, M. (2021). “Machine Learning Approach to Force Reconstruction in Photoelastic Materials.” [**IOP: MLST**](https://doi.org/10.1088/2632-2153/ac29d5). [\[Code\]](https://github.com/mrsergazinov/particle-force-cnn)
 
 #### Talks
 
