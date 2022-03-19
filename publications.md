@@ -7,9 +7,24 @@ For an up-to-date list, see my [Google Scholar](https://scholar.google.com/citat
 
 #### Publications
 
-1. Sergazinov, R., Armandpour, M., and Gaynanova, I. (2021). “Gluformer: Transformer-Based Personalized Glucose Forecasting with Uncertainty Quantification.” Under review.
+**Sergazinov, R.**, Qian, X., Gaynanova, I. (2022+).  
+“Multivariate probabilistic time series prediction with copula-based normalizing
+flows.”  
+In preparation.
 
-2. Sergazinov, R., and Kramar, M. (2021). “Machine Learning Approach to Force Reconstruction in Photoelastic Materials.” [**IOP: MLST**](https://doi.org/10.1088/2632-2153/ac29d5). [\[Code\]](https://github.com/mrsergazinov/particle-force-cnn)
+**Sergazinov, R.**, Leroux, A., Cui, E., Crainiceanu, C., Gaynanova, I. (2022+).  
+“A case study of glucose levels during sleep using fast function on scalar regression
+inference.”  
+In preparation.
+
+**Sergazinov, R.**, Armandpour, M., and Gaynanova, I. (2021).  
+“Gluformer: Transformer-Based Personalized Glucose Forecasting with Uncertainty Quantification.”  
+Under review.
+
+**Sergazinov, R.**, and Kramar, M. (2021).  
+“Machine Learning Approach to Force Reconstruction in Photoelastic Materials.”  
+[**IOP: MLST**](https://doi.org/10.1088/2632-2153/ac29d5).  
+[\[Code\]](https://github.com/mrsergazinov/particle-force-cnn).
 
 #### Talks
 
