@@ -12,7 +12,7 @@ For an up-to-date list, see my [Google Scholar](https://scholar.google.com/citat
 flows.”  
 In preparation.
 
-**Sergazinov, R.**, Ji, C., Du, G., Navardi, S., Hao, Y., Liu, W.(2022). “MultiTab: Multi-label Classification for Tabular Data with Applications to Fraud Data.” 
+**Sergazinov, R.**, Ji, C., Du, G., Navardi, S., Hao, Y., Liu, W.(2022). “MultiTab: Multi-label Classification for Tabular Data with Applications to Fraud Data.”  
 In preparation.
 
 #### Pre-prints
@@ -20,11 +20,11 @@ In preparation.
 **Sergazinov, R.**, Leroux, A., Cui, E., Crainiceanu, C., Gaynanova, I. (2022).  
 “A case study of glucose levels during sleep using fast function on scalar regression
 inference.”  
-[**Biometrics (revise and resubmit)**]().
+[**Biometrics (revise and resubmit)**](https://arxiv.org/abs/2205.08439).
 
 **Sergazinov, R.**, Armandpour, M., and Gaynanova, I. (2022).  
 “Gluformer: Transformer-Based Personalized Glucose Forecasting with Uncertainty Quantification.”  
-[**arXiv**]().
+[**arXiv**](https://arxiv.org/abs/2209.04526).  
 [\[Code\]](https://github.com/mrsergazinov/gluformer).
 
 ### Peer-reviewed
@@ -36,4 +36,7 @@ inference.”
 
 #### Talks
 
-1. "Machine learning approach to force reconstruction in photoelastic materials," Undergraduate Research Day, University of Oklahoma. [\[OSF\]](https://osf.io/5epzm/)
+1. "Machine learning approach to force reconstruction in photoelastic materials,"  
+Undergraduate Research Day,  
+University of Oklahoma.  
+[\[OSF\]](https://osf.io/5epzm/)
