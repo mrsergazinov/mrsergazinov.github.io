@@ -25,7 +25,7 @@ inference.”
 **Submitted to ICASSP 2023**.  
 [\[arXiv\]](https://arxiv.org/abs/2209.04526) [\[Code\]](https://github.com/mrsergazinov/gluformer)
 
-**Sergazinov, R.**, Ji, C., Du, G., Navardi, S., Hao, Y., Liu, W.(2023). 
+**Sergazinov, R.**, Jin, W., Ji, C., Du, G., Navardi, S., Hao, Y., Liu, W.(2023). 
 “MultiTab: Multi-label Classification for Tabular Data with Applications to Fraud Data.”  
 **Submitted to IJCAI 2023**.
 
