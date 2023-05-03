@@ -7,6 +7,12 @@ For an up-to-date list, see my [Google Scholar](https://scholar.google.com/citat
 
 ## Peer-reviewed
 
+Sergazinov, R., Leroux, A., Cui, E., Crainiceanu, C., Gaynanova, I. (2023).  
+“A case study of glucose levels during sleep using fast function on scalar regression
+inference.”  
+*Biometrics*.  
+[\[arXiv\]](https://arxiv.org/abs/2205.08439) [\[Code\]](https://github.com/IrinaStatsLab/cgm-sleep-inference)
+
 Sergazinov, R., Armandpour, M., and Gaynanova, I. (2023).  
 “Gluformer: Transformer-Based Personalized Glucose Forecasting with Uncertainty Quantification.”  
 [*IEEE ICASSP*](https://2023.ieeeicassp.org/).  
@@ -19,15 +25,9 @@ Sergazinov, R., and Kramar, M. (2021).
 
 ## Pre-prints
 
-Sergazinov, R., Leroux, A., Cui, E., Crainiceanu, C., Gaynanova, I. (2023).  
-“A case study of glucose levels during sleep using fast function on scalar regression
-inference.”  
-*Biometrics* (revise and resubmit).  
-[\[arXiv\]](https://arxiv.org/abs/2205.08439)
-
 Sergazinov, R., Jin, W., Ji, C., Du, G., Navardi, S., Hao, Y., Liu, W.(2023). 
 “MultiTab: Multi-label Classification for Tabular Data with Applications to Fraud Data.”  
-Submitted to *IJCAI*.
+Submitted.
 
 ## Talks
 

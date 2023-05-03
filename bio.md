@@ -5,7 +5,7 @@ permalink: /bio
 
 #### Short Bio
 
-I am a PhD student in **Statistics at Texas A&M University**, under the guidance of [Professor Irina Gaynanova](https://irinagain.github.io/) and co-advised by [Professor Xiaoning Qian](http://xqian37.github.io/) from the Electrical Engineering Department. 
+I am a PhD student in **Statistics at Texas A&M University**, under the guidance of [Professor Irina Gaynanova](https://irinagain.github.io/) and [Professor Raymond Carroll](https://carroll.stat.tamu.edu/) and co-advised by [Professor Xiaoning Qian](http://xqian37.github.io/) from the Electrical Engineering Department. 
 
 My research focuses on developing **deep learning** models for **biomedical data** and utilizing probabilistic techniques to create accurate **uncertainty quantification** methods for these models. Previously, I have worked on advancing deep learning methods for inferring physical properties of granular materials. In general, I enjoy exploring topics at the interface of computational and theoretical sciences.
 
