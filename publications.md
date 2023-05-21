@@ -15,7 +15,7 @@ Sergazinov, R., Armandpour, M., and Gaynanova, I. (2023).
 Sergazinov, R., Leroux, A., Cui, E., Crainiceanu, C., Gaynanova, I. (2023).  
 “A case study of glucose levels during sleep using fast function on scalar regression
 inference.”  
-[*Biometrics*](https://pubmed.ncbi.nlm.nih.gov/37189239/).
+[*Biometrics*](https://pubmed.ncbi.nlm.nih.gov/37189239/). 
 [\[arXiv\]](https://arxiv.org/abs/2205.08439) [\[Code\]](https://github.com/IrinaStatsLab/cgm-sleep-inference)
 
 Sergazinov, R., and Kramar, M. (2021).  
