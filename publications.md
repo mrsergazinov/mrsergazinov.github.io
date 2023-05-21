@@ -7,16 +7,16 @@ For an up-to-date list, see my [Google Scholar](https://scholar.google.com/citat
 
 ## Peer-reviewed
 
+Sergazinov, R., Armandpour, M., and Gaynanova, I. (2023).  
+“Gluformer: Transformer-Based Personalized Glucose Forecasting with Uncertainty Quantification.”  
+[*IEEE ICASSP*](https://ieeexplore.ieee.org/document/10096419).  
+[\[arXiv\]](https://arxiv.org/abs/2209.04526) [\[Code\]](https://github.com/mrsergazinov/gluformer) [\[Materials\]](https://sigport.org/documents/gluformer-transformer-based-personalized-glucose-forecasting-uncertainty-quantification-0)
+
 Sergazinov, R., Leroux, A., Cui, E., Crainiceanu, C., Gaynanova, I. (2023).  
 “A case study of glucose levels during sleep using fast function on scalar regression
 inference.”  
-*Biometrics*.  
+[*Biometrics*](https://pubmed.ncbi.nlm.nih.gov/37189239/).
 [\[arXiv\]](https://arxiv.org/abs/2205.08439) [\[Code\]](https://github.com/IrinaStatsLab/cgm-sleep-inference)
-
-Sergazinov, R., Armandpour, M., and Gaynanova, I. (2023).  
-“Gluformer: Transformer-Based Personalized Glucose Forecasting with Uncertainty Quantification.”  
-[*IEEE ICASSP*](https://2023.ieeeicassp.org/).  
-[\[arXiv\]](https://arxiv.org/abs/2209.04526) [\[Code\]](https://github.com/mrsergazinov/gluformer)
 
 Sergazinov, R., and Kramar, M. (2021).  
 “Machine Learning Approach to Force Reconstruction in Photoelastic Materials.”  
