@@ -7,6 +7,14 @@ For an up-to-date list, see my [Google Scholar](https://scholar.google.com/citat
 
 ## Peer-reviewed
 
+Sergazinov, R., Chun, E., Rogovchenko, V., Fernandes, N., Kasman, N., Gaynanova, I. (2024).  
+“GlucoBench: Curated List of Continuous Glucose Monitoring Datasets with Prediction Benchmarks.”
+[*ICLR*](https://openreview.net/forum?id=cUSNs8nGaV)
+[\[Code\]](https://github.com/IrinaStatsLab/GlucoBench)
+
+Wu, J., Chen, S., Zhao, Q., Sergazinov, R., Li, C., Liu, S., Zhao, C., Xie, T., Guo, H., Ji, C., Cociorva, D., Brunzell, B. (2024). “SwitchTab: Switched Autoencoders Are Effective Tabular Learners.” 
+[*AAAI*]()
+
 Sergazinov, R., Armandpour, M., and Gaynanova, I. (2023).  
 “Gluformer: Transformer-Based Personalized Glucose Forecasting with Uncertainty Quantification.”  
 [*IEEE ICASSP*](https://ieeexplore.ieee.org/document/10096419).  
