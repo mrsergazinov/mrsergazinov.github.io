@@ -1,6 +1,6 @@
 ---
 title: ''
-permalink: /sources
+permalink: /misc
 ---
 
 #### Online Sources
