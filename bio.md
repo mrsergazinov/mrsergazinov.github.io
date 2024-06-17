@@ -9,7 +9,7 @@ I am a PhD candidate in Statistics, advised by [Prof. Gaynanova (UMich BioSTAT)]
 
 During PhD, I have interned at **Amazon** as an Applied Scientist, working with Richard Chen and Cheng Ji. My projects have focused on developing (1) a **multi-task deep learning** models for detecting system abuse and fraud, and (2) a **probability calibration** method for imbalanced datasets. 
 
-This summer, I am interning at Meta as a Machine Learning Engineer, working with Litao Hu. My project focuses on exploring ways to extend context length for large language models (LLM).
+This summer, I am interning at **Meta** as a Machine Learning Engineer, working with Litao Hu. My project focuses on exploring ways to extend **context length for large language models (LLM)**.
 
 #### Experience
 
