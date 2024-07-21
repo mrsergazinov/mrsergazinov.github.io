@@ -13,26 +13,26 @@ This summer, I am interning at **Meta** as a Machine Learning Engineer, working 
 
 #### Experience
 
-**Meta**, *Modern Recommender System Team* (Summer 2024) 
+**Meta**, *Modern Recommender System Team* (Summer 2024)  
 *Machine Learning Engineer Intern* 
 - Working on extending context length for large language models (LLM)
 
-**Amazon**, *Customer Trust and Partner Support Team* (Summer 2022 and 2023) 
+**Amazon**, *Customer Trust and Partner Support Team* (Summer 2022 and 2023)  
 *Applied Scientist Intern* 
 - Developed a probability calibration method for imbalanced datasets
 - Developed multi-task deep learning models for detecting system abuse and fraud
 - Worked on deep learning for tabular data
 
-**Texas A&M University**, *Department of Statistics* (2020 - present) 
+**Texas A&M University**, *Department of Statistics* (2020 - present)  
 *PhD Candidate* 
 - Advised by Prof. Gaynanova, Prof. Qian, and Prof. Carroll
 - Research on personalized probabilistic models for statistical inference and prediction
 
 #### Education
 
-**PhD in Statistics** at Texas A&M University (2020 - present) 
-**BS in Mathematics** at University of Oklahoma (2016 - 2020) 
-**BS in Economics** at University of Oklahoma (2016 - 2020) 
+**PhD in Statistics** at Texas A&M University (2020 - present)  
+**BS in Mathematics** at University of Oklahoma (2016 - 2020)  
+**BS in Economics** at University of Oklahoma (2016 - 2020)  
 
 #### Publications
 
@@ -55,10 +55,10 @@ For an up-to-date list, see [Google Scholar](https://scholar.google.com/citation
 > [\[arXiv\]](https://arxiv.org/abs/2401.02013) 
 
 > ``📄`` Sergazinov, R., Armandpour, M., and Gaynanova, I. (2023). “Gluformer: Transformer-Based Personalized Glucose Forecasting with Uncertainty Quantification.”  
-> [*IEEE ICASSP*](https://ieeexplore.ieee.org/document/10096419)
+> [*IEEE ICASSP*](https://ieeexplore.ieee.org/document/10096419)  
 > [\[arXiv\]](https://arxiv.org/abs/2209.04526) [\[Code\]](https://github.com/mrsergazinov/gluformer) [\[Materials\]](https://sigport.org/documents/gluformer-transformer-based-personalized-glucose-forecasting-uncertainty-quantification-0)
 
-> ``📄`` Sergazinov, R., Leroux, A., Cui, E., Crainiceanu, C., Gaynanova, I. (2023). “A case study of glucose levels during sleep using fast function on scalar regression inference.”  
+> ``📄`` Sergazinov, R., Leroux, A., Cui, E., Crainiceanu, C., Gaynanova, I. (2023). “A case study of glucose levels during sleep using fast function on scalar regression inference.”   
 > [*Biometrics*](https://pubmed.ncbi.nlm.nih.gov/37189239/)  
 > [\[arXiv\]](https://arxiv.org/abs/2205.08439) [\[Code\]](https://github.com/IrinaStatsLab/cgm-sleep-inference)
 
