@@ -5,17 +5,17 @@ permalink: /bio
 
 #### TL;DR
 
-I am a PhD candidate in Statistics, advised by [Prof. Gaynanova (UMich BioSTAT)](https://irinagain.github.io/), [Prof. Qian (TAMU ECE)](http://xqian37.github.io/), and [Prof. Carroll (TAMU STAT)](https://carroll.stat.tamu.edu/). My research centers on developing computationally tractable **personalized probabilistic models for statistical inference and prediction**. The primary motivation for my research has been **biomedical (wearables) data**. 
-
-During PhD, I have interned at **Amazon** as an Applied Scientist, working with Richard Chen and Cheng Ji. My projects have focused on developing (1) a **multi-task deep learning** models for detecting system abuse and fraud, and (2) a **probability calibration** method for imbalanced datasets. 
-
-This summer, I am interning at **Meta** as a Machine Learning Engineer, working with Litao Hu. My project focuses on exploring ways to extend **context length for large language models (LLM)**.
+I am currently working as a Research Scientist on Meta's Modern Recommender System Team. 
 
 #### Experience
 
+**Meta**, *Modern Recommender System Team* (Current)  
+*Research Scientist* 
+- Working on multi-modal recommender systems
+
 **Meta**, *Modern Recommender System Team* (Summer 2024)  
 *Machine Learning Engineer Intern* 
-- Working on extending context length for large language models (LLM)
+- Worked on extending context length for large language models (LLM)
 
 **Amazon**, *Customer Trust and Partner Support Team* (Summer 2022 and 2023)  
 *Applied Scientist Intern* 
@@ -42,9 +42,10 @@ For an up-to-date list, see [Google Scholar](https://scholar.google.com/citation
 
 > ``📄`` Sergazinov, R., Taeb, A., Gaynanova, I. (2024+). "JISEPS: Joint and Individual Subspace Exploration via Product-based Subsampling."
 
-> ``📄`` Sergazinov, R., Chen, R., Ji, C., Wu, J., Cociorva, D., Brunzell, B. (2024+). "Improving Model Calibration by Integration of Large Data Sources with Biased Labels."
-
 *Peer-reviewed*
+
+> ``📄`` Sergazinov, R., Chen, R., Ji, C., Wu, J., Cociorva, D., Brunzell, B. (2025). "Improving Model Calibration by Integration of Large Data Sources with Biased Labels."
+> [*AAAI*](https://aaai.org/)
 
 > ``📄`` Sergazinov, R., Chun, E., Rogovchenko, V., Fernandes, N., Kasman, N., Gaynanova, I. (2024).  “GlucoBench: Curated List of Continuous Glucose Monitoring Datasets with Prediction Benchmarks.”  
 > [*ICLR*](https://openreview.net/forum?id=cUSNs8nGaV)  
