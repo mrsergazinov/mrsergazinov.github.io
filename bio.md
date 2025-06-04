@@ -3,11 +3,11 @@ title: ''
 permalink: /bio
 ---
 
-#### TL;DR
+### TL;DR
 
 I am currently working as a Research Scientist on Meta's Modern Recommender System Team. 
 
-#### Experience
+### Experience
 
 **Meta**, *Modern Recommender System Team* (Current)  
 *Research Scientist* 
@@ -28,24 +28,29 @@ I am currently working as a Research Scientist on Meta's Modern Recommender Syst
 - Advised by Prof. Gaynanova, Prof. Qian, and Prof. Carroll
 - Research on personalized probabilistic models for statistical inference and prediction
 
-#### Education
+### Education
 
 **PhD in Statistics** at Texas A&M University (2020 - present)  
 **BS in Mathematics** at University of Oklahoma (2016 - 2020)  
 **BS in Economics** at University of Oklahoma (2016 - 2020)  
 
-#### Publications
+### Publications
 
 For an up-to-date list, see [Google Scholar](https://scholar.google.com/citations?user=OhV6QOkAAAAJ&hl=en).
 
-*In progress*
+*Pre-print*
 
-> ``📄`` Sergazinov, R., Taeb, A., Gaynanova, I. (2024+). "JISEPS: Joint and Individual Subspace Exploration via Product-based Subsampling."
+> ``📄`` Sergazinov, R., Wu, J., Yin, S. (2025+). "Random at First, Fast at Last: NTK-Guided Fourier Pre-Processing for Tabular DL."  
+> [*arXiv*](https://arxiv.org/abs/2506.02406)
+
+> ``📄`` Sergazinov, R., Taeb, A., Gaynanova, I. (2024+). "JISEPS: Joint and Individual Subspace Exploration via Product-based Subsampling."  
+> [*arXiv*](https://arxiv.org/pdf/2410.19125?)
+
 
 *Peer-reviewed*
 
-> ``📄`` Sergazinov, R., Chen, R., Ji, C., Wu, J., Cociorva, D., Brunzell, B. (2025). "Improving Model Calibration by Integration of Large Data Sources with Biased Labels."
-> [*AAAI*](https://aaai.org/)
+> ``📄`` Sergazinov, R., Chen, R., Ji, C., Wu, J., Cociorva, D., Brunzell, B. (2025). "Improving Model Calibration by Integration of Large Data Sources with Biased Labels."  
+> [*AAAI*](https://ojs.aaai.org/index.php/AAAI/article/download/34240/36395)
 
 > ``📄`` Sergazinov, R., Chun, E., Rogovchenko, V., Fernandes, N., Kasman, N., Gaynanova, I. (2024).  “GlucoBench: Curated List of Continuous Glucose Monitoring Datasets with Prediction Benchmarks.”  
 > [*ICLR*](https://openreview.net/forum?id=cUSNs8nGaV)  
